@@ -2,7 +2,7 @@
 
 - 🙆‍♀️ Brazilian!
 - 🔭 Currently a Systems Analysis and Development student
-- 🌱 Learning HTML, CSS and JavaScript
+- 🌱 Learning JavaScript
 - 🙃 Still figuring out how to use GitHub
 - 📫 How to reach me: biancanarumi@gmail.com
 
