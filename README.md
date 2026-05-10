@@ -4,7 +4,7 @@
 - 🔭 Currently a Systems Analysis and Development student
 - 🌱 Learning Python and SQL
 - 🙃 Still figuring out how to use GitHub
-- 📫 How to reach me: biancanarumi@gmail.com
+- 📫 How to reach me: inazumi.bianca@gmail.com
 
 ##
 
