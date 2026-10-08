@@ -9,7 +9,7 @@ Currently, I'm looking for opportunities where I can apply my analytical mindset
 ## 🛠️ Skills & Technologies
 
 ### 📊 Data & Backend
-* **Languages:** Python, SQL, COBOL
+* **Languages:** Python, SQL
 * **Databases:** PostgreSQL, MySQL, SQLite
 * **Cloud & Infrastructure:** AWS (S3, Textract)
 * **APIs & NLP:** REST API Development, Natural Language Processing (NLP)
